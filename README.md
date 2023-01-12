@@ -14,6 +14,10 @@ in QWERTY keyboards, but if you are, there are two.  One with the original
 number layer, and one called _Planck_ that has the same number layer as
 the _dvorak_ layout.
 
+@Iomky has created another 
+[repo which has a layout for typing zhuyin](https://github.com/lomky/zhuyin-onboard-layout)
+via a virtual keyboard in the i3wm environment. 
+
 The nice keyboards here are _Planck_ and _Dvorak_ both are compact ortholinear keyboards with
 most of the important keys where your thumbs go.
 
